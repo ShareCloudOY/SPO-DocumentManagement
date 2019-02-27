@@ -6,4 +6,4 @@ Contains components:
 - Registering document
 - Creating document from template
 
-![alt](/SPO-DocumentManagement/blob/master/Pics/DHS_treeview.png)
+![alt](/Pics/DHS_treeview.png)
